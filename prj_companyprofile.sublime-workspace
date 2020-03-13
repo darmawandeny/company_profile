@@ -1,0 +1,1204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"check_user"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ram",
+				"Rams-Bold"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"col",
+				"col-12"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"b",
+				"brightness()"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"slider-container",
+				"slider-container-arrow"
+			],
+			[
+				"slic",
+				"slickSetting"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"magri",
+				"margin-left"
+			],
+			[
+				"onmous",
+				"onmouseover\tAttr"
+			],
+			[
+				"dorp",
+				"dropdown-menu"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"thum",
+				"thumbnailimage"
+			],
+			[
+				"no",
+				"no-margin"
+			],
+			[
+				"bo",
+				"border-width"
+			],
+			[
+				"R",
+				"Rams"
+			],
+			[
+				"c",
+				"col-1"
+			],
+			[
+				"L",
+				"Light"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"no-",
+				"no-gap"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"cont",
+				"Contact"
+			],
+			[
+				"lis",
+				"list-group-item"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"borderco",
+				"border-color"
+			],
+			[
+				"bootstrap",
+				"bootstrap-theme"
+			],
+			[
+				"sesc",
+				"SessCol"
+			],
+			[
+				"pag",
+				"pageParam"
+			],
+			[
+				"has",
+				"hashtag"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"arrre",
+				"array_reverse"
+			],
+			[
+				"data",
+				"dataGrab"
+			],
+			[
+				"row",
+				"rowDB"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"hei",
+				"heightSet"
+			],
+			[
+				"ph",
+				"php\t<?php … ?>"
+			],
+			[
+				"conte",
+				"contentFixN"
+			],
+			[
+				"jso",
+				"json_events"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"uri",
+				"uri1"
+			],
+			[
+				"text-alig",
+				"text-align"
+			],
+			[
+				"posit",
+				"position"
+			],
+			[
+				"RAms",
+				"Rams-Bold"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"for",
+				"for\tfor …"
+			],
+			[
+				"Ram",
+				"Rams-Bold"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"red",
+				"redlight"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"mrg",
+				"margin"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"li",
+				"litebrown"
+			],
+			[
+				"nop",
+				"no-pad"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"cab",
+				"cabang"
+			],
+			[
+				"strt",
+				"strtotime"
+			],
+			[
+				"valu",
+				"valueCabang"
+			],
+			[
+				"budge",
+				"budget_cabang"
+			],
+			[
+				"tbl_",
+				"tbl_budget"
+			],
+			[
+				"budg",
+				"budget_year"
+			],
+			[
+				"bud",
+				"budget_year"
+			],
+			[
+				"caban",
+				"cabang_id"
+			],
+			[
+				"resul",
+				"result_bgt"
+			],
+			[
+				"tbl",
+				"tbl_cabang"
+			],
+			[
+				"modl",
+				"Model_crud"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"tot",
+				"totalRBMBudgetUsd"
+			],
+			[
+				"val",
+				"valueCabang"
+			],
+			[
+				"bas",
+				"base_url"
+			],
+			[
+				"rbm_",
+				"rbm_title"
+			],
+			[
+				"colx",
+				"col-xs-12"
+			],
+			[
+				"inpu",
+				"input-group-addon"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"inc",
+				"incImage"
+			],
+			[
+				"wher",
+				"wherein"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"btnp",
+				"btn-post"
+			],
+			[
+				"manua",
+				"list-absen-manually"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"select",
+				"select_where"
+			],
+			[
+				"Model",
+				"Model_crud"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"total",
+				"totalRBMBudgetUsd"
+			],
+			[
+				"cabang",
+				"cabang_rbm"
+			],
+			[
+				"arrD",
+				"arrData"
+			],
+			[
+				"arr",
+				"arrprint"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"where",
+				"whereChart"
+			],
+			[
+				"tota",
+				"totalRMBEvent"
+			],
+			[
+				"get",
+				"getBudgetAll"
+			],
+			[
+				"caba",
+				"cabang"
+			],
+			[
+				"resu",
+				"result_array"
+			],
+			[
+				"dis",
+				"disbudget"
+			],
+			[
+				"all",
+				"all_budget"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"regio",
+				"regionalUsed"
+			],
+			[
+				"re",
+				"regionalUsed"
+			],
+			[
+				"wak",
+				"waktu"
+			],
+			[
+				"selec",
+				"select_where"
+			],
+			[
+				"Modl",
+				"Model_crud"
+			],
+			[
+				"uang",
+				"uang_tunai"
+			],
+			[
+				"dateev",
+				"dataEvent"
+			],
+			[
+				"ro",
+				"row"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 2621,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/About_controller.php",
+			"settings":
+			{
+				"buffer_size": 627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 27897,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/laragon/www/companyprofile",
+		"/C/laragon/www/companyprofile/app/Http/Controllers",
+		"/C/laragon/www/companyprofile/public",
+		"/C/laragon/www/companyprofile/resources",
+		"/C/laragon/www/companyprofile/resources/views",
+		"/C/laragon/www/companyprofile/routes",
+		"/C/laragon/www/companyprofile/tests"
+	],
+	"file_history":
+	[
+		"/C/laragon/www/companyprofile/config/database.php",
+		"/C/laragon/www/companyprofile/public/web.config",
+		"/C/laragon/www/companyprofile/database/factories/ModelFactory.php",
+		"/C/laragon/www/companyprofile/database/factories/UserFactory.php",
+		"/D/Designcub3/Z-Lainnya/gs.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/default.settings.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/settings.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/gs.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/Tester.php",
+		"/C/xampp/htdocs/jayakarta/application/views/admin/home.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/berita.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/sarana.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/workshop.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/posttemplate.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Mahasiswa.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Kemitraan.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Sarana.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Workshop.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Entrepreneurship.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Penelitian.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/career.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/akademik.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/perkuliahan.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/civitas.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/penerimaan.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/contact.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/galeri.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/registration.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/about.php",
+		"/C/xampp/htdocs/jayakarta/application/config/database.php",
+		"/C/xampp/htdocs/jayakarta/application/config/constants.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Berita.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/service-center.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/new_style.css",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Career.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Akademik.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Perkuliahan.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Contact.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Civitas.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Penerimaan.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Registration.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Galeri.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Welcome.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/database.php",
+		"/C/xampp/htdocs/jayakarta/assets/front/css/style.css",
+		"/C/xampp/htdocs/jayakarta/application/controllers/Home.php",
+		"/C/xampp/htdocs/jayakarta/application/controllers/About.php",
+		"/C/xampp/htdocs/jayakarta/application/config/autoload.php",
+		"/C/xampp/htdocs/jayakarta/application/views/front/template/main.php",
+		"/C/xampp/htdocs/jayakarta/application/config/routes.php",
+		"/C/Users/user/Downloads/bootstrap-4.0.0/index.html",
+		"/C/xampp/htdocs/jayakarta/application/config/config.php",
+		"/C/xampp/htdocs/jayakarta/.htaccess",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/my-profile.php",
+		"/C/xampp/htdocs/gaulcreation_2019/assets/admin/js/myjs.js",
+		"/C/xampp/htdocs/gaulcreation_2019/assets/plugins/filemanager/config/config.php",
+		"/C/Users/user/Downloads/script-favicon.html",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/winner-1.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/winner-2.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/models/Mpost.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/controllers/admin/Submission.php",
+		"/C/xampp/htdocs/gaulcreation_2019/assets/front/css/style.css",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/winner2018.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/dewan-juri.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/syarat-dan-ketentuan.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/cara-ikutan.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/tentang-kompetisi.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/news.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/upload-desain.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/template/foot.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/my-profile.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/admin/submission/index.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/models/Mminiactivity.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/controllers/Welcome.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/mini-activity-1.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/template/main.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/template/winner2018",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/news.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/galeri.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/models/Maccount.php",
+		"/C/xampp/htdocs/gaulcreation_2019/.htaccess",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/facebook_new.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/bottle.php",
+		"/C/xampp/htdocs/gaulcreation_2019/assets/front/js/html5-canvas-paint-bucket.js",
+		"/C/xampp/htdocs/gaulcreation_2019/application/views/front/template/main.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/config/database.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/controllers/Home.php",
+		"/C/xampp/htdocs/gaulcreation_2019/application/libraries/Marge.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-2/Product.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/foot_load.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/config.php",
+		"/C/xampp/htdocs/propanevent/application/views/template/backend.php",
+		"/C/xampp/htdocs/propanevent/application/views/event/v_examplexlsx.php",
+		"/C/xampp/htdocs/propanevent/application/views/section/navigation.php",
+		"/C/xampp/htdocs/propanevent/application/views/cabang/v_list.php",
+		"/C/xampp/htdocs/propanevent/application/views/event/v_detail.php",
+		"/C/xampp/htdocs/propanevent/application/views/cabang/v_edit.php",
+		"/C/xampp/htdocs/propanevent/application/views/cabang/v_create.php",
+		"/C/xampp/htdocs/propanevent/application/controllers/Cabang.php",
+		"/C/xampp/htdocs/propanevent/application/views/user/v_create.php",
+		"/C/xampp/htdocs/propanevent/application/controllers/User.php",
+		"/C/xampp/htdocs/propanevent/application/views/event/v_list.php",
+		"/C/xampp/htdocs/propanevent/application/views/event/v_create.php",
+		"/C/xampp/htdocs/propanevent/application/views/event/v_edit.php",
+		"/C/xampp/htdocs/propanevent/application/views/event/v_import.php",
+		"/C/xampp/htdocs/propanevent/application/controllers/Event.php",
+		"/C/xampp/htdocs/propanevent/application/helpers/custom_helper.php",
+		"/C/xampp/htdocs/propanevent/index.php",
+		"/C/xampp/htdocs/propanevent/application/config/database.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/Login.php",
+		"/C/xampp/htdocs/propanevent/application/views/section/header.php",
+		"/C/xampp/htdocs/samaneahill/wp-config.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/v_dokter.php",
+		"/C/xampp/htdocs/propanevent/application/controllers/Home.php",
+		"/C/xampp/htdocs/propanevent/application/views/user/v_edit.php",
+		"/C/xampp/htdocs/propanevent/importxlsx.php",
+		"/C/xampp/htdocs/propanevent/application/models/Model_crud.php",
+		"/C/xampp/htdocs/propanevent/application/views/section/footer.php",
+		"/C/xampp/htdocs/propanevent/application/libraries/Excel.php",
+		"/C/xampp/htdocs/propanevent/application/config/config.php",
+		"/C/xampp/htdocs/propanevent/application/config/routes.php",
+		"/C/xampp/htdocs/propanevent/importxlsx2.php",
+		"/C/xampp/htdocs/propanevent/application/third_party/PHPExcel.php",
+		"/C/xampp/htdocs/propanevent/application/third_party/PHPExcel/Reader/Excel2007.php",
+		"/C/xampp/htdocs/prospect/application/views/admin/product/edit.php",
+		"/C/xampp/htdocs/prospect/application/views/admin/product/add.php",
+		"/C/Users/user/AppData/Local/Temp/fz3temp-1/temp_test_job.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\gaulcreation_2019",
+			"C:\\xampp\\htdocs\\gaulgreation_2019",
+			"C:\\xampp\\htdocs\\propanevent",
+			"C:\\xampp\\htdocs\\tesbakat",
+			"C:\\xampp\\htdocs\\adesco\\application,C:\\xampp\\htdocs\\adesco\\assets",
+			"C:\\xampp\\htdocs\\brawijayahospital\\application",
+			"C:\\xampp\\htdocs\\template-admin\\application",
+			"C:\\xampp\\htdocs\\template-admin",
+			"C:\\xampp\\htdocs\\grandsudirman\\application",
+			"C:\\xampp\\htdocs\\hauz",
+			"C:\\xampp\\htdocs\\template-admin",
+			"C:\\xampp\\htdocs\\hias\\application\\controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sup",
+			".headerTitleCat.wrapp-about-col",
+			"coloring-",
+			"background",
+			"img-bottle",
+			"processURL",
+			"judge-de",
+			"515px",
+			"slick",
+			"Mcrypt extension",
+			"Mcrypt",
+			"DK Honeyguide Caps",
+			"DK Honey",
+			"Gotham",
+			"Gotham Bold",
+			"Gotham Medium",
+			"Gotham",
+			",",
+			"vis-hidden",
+			"8",
+			"anchor",
+			"_",
+			"send",
+			"budget_master",
+			"$n",
+			"flash",
+			"importexcel",
+			"btn-import",
+			"feature_link",
+			"factory",
+			"loa",
+			"load",
+			"loac",
+			"addtolist",
+			"mobile",
+			":LATINFO:",
+			"post_html",
+			"pin",
+			"msocmed",
+			"x",
+			"mpost->getJoin",
+			"Regular",
+			"base_url",
+			"user",
+			"website_popup_image",
+			"getSetting",
+			"src",
+			"base_url",
+			"cur_dir",
+			"upload_dir",
+			"515px",
+			"516px",
+			"                      ",
+			"6000",
+			"userdate",
+			"credit-mess",
+			"message",
+			"interval",
+			"product_detail_id",
+			"btn-pagin",
+			"col",
+			"close_message",
+			"namecategory",
+			"typename",
+			"load",
+			"a {",
+			"a{",
+			"resultReg",
+			"resulReg",
+			"$resultRe",
+			"consol",
+			">\n",
+			"Deep Ocean Blue",
+			"Cosmic Blue Metallic",
+			"Sonic Gray Pearl",
+			"Nocturne Night Metallic",
+			"Misty Green Pearl",
+			"Rallye Red",
+			"Phoenix Orange Pearl",
+			"Passion Red Pearl",
+			"Taffeta White",
+			"Brilliant Sporty Blue Metallic",
+			"White Orchid Pearl",
+			"Modern Steel Metallic",
+			"Lunar Silver Metallic",
+			"Crystal Black Pearl",
+			"Hon",
+			"fals",
+			"hos",
+			"input--ho",
+			"hauz",
+			"Hauz",
+			"etc",
+			"filterVendor",
+			"No internet conn",
+			"alert",
+			"iche",
+			"http",
+			"view-user",
+			"muser",
+			"muser->insert",
+			"proto",
+			"'].'</",
+			"txtidspeciality",
+			"inquiry",
+			"Inquiry",
+			"inquiry",
+			"Inquiry",
+			"product",
+			"poster-slide",
+			"515px",
+			"panel",
+			"slideT",
+			"sliderT",
+			"http",
+			"tesbakat",
+			"dtp",
+			"date",
+			"}\n",
+			"home/accountRegistration",
+			"accountRegistration",
+			"frmAccountPatientModal",
+			"show_menu",
+			"$this->mail",
+			"<?php",
+			"1200",
+			"front_dateAppointment",
+			");?>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"767px",
+			"Sunrise International",
+			"Rams Bold",
+			"Rams",
+			"767px",
+			"768px",
+			"trans",
+			"Transaction",
+			"transaction",
+			"Transaction",
+			"doctor",
+			"600",
+			"front_dateApp",
+			"icon-slideright-smaller.png",
+			"1025px",
+			"getPicture",
+			"pages_",
+			"<?php echo $n; ?>",
+			"doctor",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"Hospital",
+			"hospital",
+			"HOSPITAL",
+			"hospital",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Location",
+			"location",
+			"Residence",
+			"Office",
+			"brands",
+			"mbrands",
+			" ",
+			"",
+			" ",
+			"",
+			"mysqli_",
+			"_query($con,",
+			"mysqli_",
+			"_query($con,",
+			"_query($con,$query",
+			"mysqli_",
+			"mysqli",
+			"kamargelap_bot",
+			"devddf_bot",
+			"[at]denyddf",
+			"kamargelap_bot",
+			"$this->session->unset_userdata(_PREFIX.",
+			"$this->session->set_userdata(_PREFIX.",
+			"$this->session->userdata(_PREFIX.",
+			"panintower",
+			"Panintower",
+			"$this->session->userdata(_PREFIX.",
+			"$this->session->unset_userdata(_PREFIX.",
+			"$this->session->set_userdata(_PREFIX.",
+			"$this->session->userdata(_PREFIX.",
+			"",
+			"PRIVILEGE",
+			"base_url('assets/",
+			"mysqli",
+			"mysqli_num_rows",
+			"mysqli_fetch_array",
+			"mysqli_query($con,",
+			"mysqli_query",
+			"mysqli",
+			"brand",
+			"mbrand",
+			"idcatsubcategory1",
+			"subcategory1",
+			"subcategory2",
+			"idsubcategory1",
+			"subcategory2",
+			"msubcategory2",
+			"msubcategory1",
+			"mcategory",
+			"footcoll",
+			"footheading",
+			"footermenu",
+			"mainmenu",
+			"collmenu",
+			"submenu",
+			"mainmenu",
+			"session_value"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								877,
+								877
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/About_controller.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27897,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "prj_companyprofile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"application\\views\\event\\v_list.php"
+			],
+			[
+				"h",
+				"application\\controllers\\Home.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
